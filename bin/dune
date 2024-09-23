@@ -1,0 +1,4 @@
+(executable
+ (public_name timeout)
+ (name main)
+ (libraries eio eio_main timeout))
